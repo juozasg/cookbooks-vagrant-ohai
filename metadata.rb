@@ -1,5 +1,6 @@
 license          "Apache 2.0"
 description      "Distributes ohai plugins for vagrant chef nodes"
+name		 "vagrant-ohai"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          "1.0.0"
 
